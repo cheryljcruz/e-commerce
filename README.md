@@ -25,3 +25,5 @@
 ## Usage
 
 Watch this video to see how to use the E-Commerce application through the command-line and with Insomnia!
+
+![Video](https://github.com/cheryljcruz/e-commerce/blob/main/assets/videos/E%20commerce%20walkthrough%20%20(1).mp4)
